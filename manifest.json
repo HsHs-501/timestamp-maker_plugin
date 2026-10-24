@@ -1,0 +1,11 @@
+{
+  "name": "Timestamp Maker",
+  "description": "Convert custom dates and times to Discord timestamp tags easily.",
+  "authors": [
+    {
+      "name": "HsHs-501"
+    }
+  ],
+  "main": "index.js",
+  "hash": "1"
+}
