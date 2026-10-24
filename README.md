@@ -65,7 +65,7 @@ To install this plugin in **Revenge** on Discord (Android):
 
 1. Copy the plugin URL:
    ```text
-   https://github.com/HsHs-501/timestamp-maker_plugin
+   https://hshs-501.github.io/timestamp-maker_plugin/manifest.json
    ```
 2. Open Discord and go to **User Settings** (your profile icon).
 3. Scroll down to the **Revenge** section and tap **Plugins**.
